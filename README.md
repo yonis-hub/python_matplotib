@@ -8,7 +8,7 @@ This assignment utilizes the Python libraries such as Pandas and Matplotlib to a
 ## Clone this repo: 
 Run the Jupyter Notebook
 
-##Download Python libs
+## Download Python libs
 requirements.txt
 
 ## How to install dependency
