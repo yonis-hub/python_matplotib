@@ -9,12 +9,13 @@ This assignment utilizes the Python libraries such as Pandas and Matplotlib to a
 
 2. Download Python libs: `requirements.txt`
 
-3. Install dependency
-  a. `cd` to the directory where `requirements.txt` is located.
+3. Install dependency:
+
+   `cd` to the directory where `requirements.txt` is located.
   
-  b. activate your virtualenv.
+   activate your virtualenv.
   
-  c. run: `pip install -r requirements.txt` in your shell.
+   run: `pip install -r requirements.txt` in your shell.
 
 4. Run Jupyter Notebook for in depth analysis!
 
