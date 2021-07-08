@@ -17,7 +17,7 @@ activate your virtualenv.
 
 run: `pip install -r requirements.txt` in your shell.
 
-Run Jupyter Notebook! 
+Run Jupyter Notebook for in depth analysis!
 
 
 
